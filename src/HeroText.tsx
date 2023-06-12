@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import HouseIcon from "./HouseIcon";
 import { reveal, animationStart } from "./utils/animation";
 
 function HeroText() {
