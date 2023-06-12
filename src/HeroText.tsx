@@ -28,7 +28,7 @@ function HeroText() {
         initial="hiddenVariant"
         animate="revealedVariant"
         transition={{ delay: animationStart + 1.2, duration: 0.5 }}
-        className="mb-30px w-1/4 <lg:w-1/3 <md:w-1/2 text-14px leading-tight"
+        className="mb-30px w-1/4 <lg:w-1/3 <md:w-1/2 text-22px leading-tight"
       >
         World-Class Builders, Esteemed Minds, Regal Players: All In Our
         Minecraft Realm.
