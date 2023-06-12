@@ -27,13 +27,13 @@ function Navbar() {
           <Logo />
         </motion.div>
         <div className="flex gap-100px items-center <md:hidden">
-          <motion.span variants={reveal} className="cursor-pointer">
+          <motion.span variants={reveal} className="cursor-pointer text-20px">
             Skill tree
           </motion.span>
-          <motion.span variants={reveal} className="cursor-pointer">
+          <motion.span variants={reveal} className="cursor-pointer text-20px">
             Works
           </motion.span>
-          <motion.span variants={reveal} className="cursor-pointer">
+          <motion.span variants={reveal} className="cursor-pointer text-20px">
             Future
           </motion.span>
         </div>

@@ -1,9 +1,10 @@
 function Logo() {
   return (
     <svg
+      style={{ transform: "translateY(50px) scale(1.5)" }}
       width="150"
       height="400"
-      viewBox="0 -60 212 195"
+      viewBox="0 -180 212 305"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
