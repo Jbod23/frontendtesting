@@ -21,7 +21,7 @@ function Navbar() {
           duration: 0.5,
           delayChildren: animationStart + 0.5,
         }}
-        className="w-full flex items-center justify-around h-80px fixed top-0 bg-white z-100"
+        className="w-full flex items-center justify-around h-80px top-0 bg-white z-100"
       >
         <motion.div variants={reveal}>
           <Logo />
