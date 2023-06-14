@@ -1,5 +1,7 @@
 # frontendtesting
 
+The project is deployed and live at -> https://sackboy1.netlify.app/
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
